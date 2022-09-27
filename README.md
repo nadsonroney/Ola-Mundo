@@ -1,2 +1,2 @@
-# Ola Mundo
- Meu primeiro Projeto de Treinamento
+# Olá, Mundo!
+ Meu primeiro Projeto de Git e GitHub.
